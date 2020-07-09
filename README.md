@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![Header image](jacobwilliams/orbits.png)
+![Header image](jacobwilliams/blob/master/orbits.png)
 
 <!--
 **jacobwilliams/jacobwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
