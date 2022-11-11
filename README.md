@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a rel="me" href="https://mastodon.social/@jacobwilliams"> </a>
+
+Orbital mechanic and programmer. Fortran aficionado. <a rel="me" href="https://mastodon.social/@jacobwilliams"> </a>
